@@ -1,4 +1,4 @@
-ctransformers==0.25
+ctransformers==0.2.25
 sentence-transfomers==2.2.0 #for embeddings from HF
 pinecone-client
 langchain==0.0.225
