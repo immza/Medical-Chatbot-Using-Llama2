@@ -1,4 +1,4 @@
-![Alt text](images/MedAgent 1.png)
+![Alt text](images/MedAgent1.png)
 
 # Steps to run the project:
 
@@ -30,4 +30,5 @@ https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.g
 ```
 
 python template.py
+
 
